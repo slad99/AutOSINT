@@ -11,4 +11,4 @@
 python-docx
 shodan
 google
-pypdf
+pypdf==1.13
