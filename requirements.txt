@@ -9,6 +9,6 @@
 
 
 python-docx
-shodan
+shodan==1.7.6
 google
 pypdf
