@@ -10,5 +10,5 @@
 
 python-docx
 shodan
-google
+google==2.0.0
 pypdf
